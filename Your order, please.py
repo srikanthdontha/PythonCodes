@@ -10,5 +10,4 @@ def int_from_word(word):
             return int(character)
     return None
 
-
 print(order("is2 Thi1s T4est 3a"))
